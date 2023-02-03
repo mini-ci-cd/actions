@@ -1,4 +1,3 @@
-# actions
 Github Action workflow files for Kubernetes deployments
 
 # Usage example:
